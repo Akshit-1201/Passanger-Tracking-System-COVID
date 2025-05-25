@@ -1,0 +1,27 @@
+{
+  "name": "passanger-tracking-system-covid",
+  "version": "1.0.0",
+  "description": "To design and implement a near real-time system that identifies and alerts authorities about potential COVID-19 infected passengers arriving at major airports around the world based on their temperature and travel history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshit-1201/Passanger-Tracking-System-COVID.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshit-1201/Passanger-Tracking-System-COVID/issues"
+  },
+  "homepage": "https://github.com/Akshit-1201/Passanger-Tracking-System-COVID#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.6",
+    "kafka-js": "^0.0.0",
+    "kafkajs": "^2.2.4",
+    "mysql2": "^3.14.1"
+  }
+}
